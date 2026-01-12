@@ -1,0 +1,10 @@
+admin:
+  fields:
+    doctolib:
+      label: Doctolib
+      hint: Lien Doctolib (https://doctolib.fr/…)
+    diplomas:
+      label: 
+        one: Diplôme
+        other: Diplômes
+      

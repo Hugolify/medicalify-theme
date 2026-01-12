@@ -6,3 +6,13 @@ module:
       target: i18n
     - source: layouts
       target: layouts
+
+params:
+  admin:
+    fields:
+      contact:
+        fields:
+          - email
+          - phone
+          - doctolib
+          - socials

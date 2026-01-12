@@ -1,0 +1,7 @@
+{{- $args := dict 
+  "label" (i18n "admin.fields.doctolib.label")
+  "hint" (i18n "admin.fields.doctolib.hint")
+  "name" "doctolib"
+  -}}
+
+{{ partial "admin/widgets/string.js" $args }}
