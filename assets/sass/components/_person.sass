@@ -1,0 +1,21 @@
+article.person
+    --bs-card-spacer-x: 0
+    --bs-card-border-width: 0
+    --bs-card-border-radius: 0
+    --bs-card-inner-border-radius: 0
+    --bs-card-bg: transparent
+    --bs-card-cap-bg: transparent
+    @extend .card
+    a
+        @extend .stretched-link
+    .description
+        @extend .small
+    img
+        height: auto
+        width: 100%
+    .media
+        @extend .ratio
+        --bs-aspect-ratio: 150%
+        align-self: flex-start
+        max-width: var(--card-media)
+        order: -1

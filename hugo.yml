@@ -6,8 +6,13 @@ module:
       target: i18n
     - source: layouts
       target: layouts
+    - source: static
+      target: static
 
 params:
+  persons:
+    thumbnail:
+      desktop: 306x382
   admin:
     fields:
       contact:
