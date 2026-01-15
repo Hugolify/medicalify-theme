@@ -7,3 +7,11 @@ admin:
       label: 
         one: Diploma
         other: Diplomas
+contact:
+  doctolib: 
+    label: Doctolib
+    booking: Book an appointment on Doctolib
+diplomas:
+  label: 
+    one: Diploma
+    other: Diplomas

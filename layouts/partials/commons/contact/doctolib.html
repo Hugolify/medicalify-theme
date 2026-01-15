@@ -1,0 +1,6 @@
+{{- $url := partial "func/PrepareHTML.html" . }}
+{{- $name := i18n "contact.doctolib.booking" }}
+{{- $title := i18n "link.blank_aria" (dict "Title" $name) }}
+<a href="{{ $url }}" class="btn btn-doctolib" target="_blank" rel="noopener noreferrer" title="{{ safeHTML $title }}">
+  <span>{{ $name }}</span>
+</a>

@@ -7,4 +7,12 @@ admin:
       label: 
         one: Diplôme
         other: Diplômes
+contact:
+  doctolib: 
+    label: Doctolib
+    booking: Prendre rendez-vous sur Doctolib
+diplomas:
+  label: 
+    one: Diplôme
+    other: Diplômes
       
