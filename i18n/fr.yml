@@ -10,7 +10,7 @@ admin:
 contact:
   doctolib: 
     label: Doctolib
-    booking: Prendre rendez-vous sur Doctolib
+    booking: Prendre rendez-vous <i>sur Doctolib</i>
 diplomas:
   label: 
     one: Diplôme

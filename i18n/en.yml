@@ -10,7 +10,7 @@ admin:
 contact:
   doctolib: 
     label: Doctolib
-    booking: Book an appointment on Doctolib
+    booking: Book an appointment <i>on Doctolib</i>
 diplomas:
   label: 
     one: Diploma

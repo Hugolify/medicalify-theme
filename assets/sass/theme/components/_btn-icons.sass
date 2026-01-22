@@ -1,0 +1,11 @@
+.btn-phone
+    @if variable-exists(icons-map)
+        &::before
+            @include icon("telephone")
+            margin-right: .5rem
+
+.btn-email
+    @if variable-exists(icons-map)
+        &::before
+            @include icon("envelope-at")
+            margin-right: .5rem
