@@ -13,8 +13,11 @@ params:
   persons:
     thumbnail:
       desktop: 306x398
+      mobile: 306x398
+      scrollsnap: 240x312
     image:
       desktop: 636x800
+      mobile: 360x240
   admin:
     fields:
       contact:
