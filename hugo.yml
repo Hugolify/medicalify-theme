@@ -12,7 +12,9 @@ module:
 params:
   persons:
     thumbnail:
-      desktop: 306x382
+      desktop: 306x398
+    image:
+      desktop: 636x800
   admin:
     fields:
       contact:
